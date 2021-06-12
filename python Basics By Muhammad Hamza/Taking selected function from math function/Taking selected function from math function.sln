@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Taking selected function from math function", "Taking selected function from math function.pyproj", "{2F396768-7267-4DA9-B5B6-A5984F7FD95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F396768-7267-4DA9-B5B6-A5984F7FD95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F396768-7267-4DA9-B5B6-A5984F7FD95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B79D988-0528-4CB1-9924-9E1E5752D014}
+	EndGlobalSection
+EndGlobal

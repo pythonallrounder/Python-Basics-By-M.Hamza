@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "some more about variable working in class instamce and class variable", "some more about variable working in class instamce and class variable.pyproj", "{2E6DF3C4-62D9-4982-8BA2-90F537D68460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6DF3C4-62D9-4982-8BA2-90F537D68460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6DF3C4-62D9-4982-8BA2-90F537D68460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94250C4E-B299-4D34-A72E-22CC462C6B36}
+	EndGlobalSection
+EndGlobal
